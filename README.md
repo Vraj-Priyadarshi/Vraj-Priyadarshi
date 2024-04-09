@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vraj-Priyadarshi
 - 👀 I’m interested in learning coding and working on myself
-- 🌱 I’m currently learning pythn
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 you can reach me through my email vrajpriyadarshi2004@gmail.com
 - 😄 Pronouns: ...
